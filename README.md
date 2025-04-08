@@ -58,7 +58,7 @@ matplotlib==3.8.3
 
 1. **📁 Place Images for Processing:**  
    - Add all your raw images to the `raw_images/` folder.  
-   - Supported formats: `.png`, `.jpg`, `.jpeg`.
+   - Supported formats: `.png`.
 
 2. **🏃 Run the Pipeline:**  
    - In the root directory, run:
@@ -174,15 +174,15 @@ pip install -r requirements.txt
 ---
 
 ## 🎯 **Contributors**
-- 👤 **Your Name** → Project lead  
-- 💻 **OpenAI's ChatGPT** → Assistant for code optimization and debugging  
+- 👤 Your Name → Shashank Kulkarni
+- 💻 OpenAI's ChatGPT → Assistant for code optimization and debugging  
 
 ---
 
-## 💡 **Contact & Support**
+## 💡 Contact & Support
 📧 For questions or support, feel free to reach out:  
-- Email: `your-email@example.com`  
-- GitHub Issues: [Open an Issue](https://github.com/your-username/strikeout_recognition_project/issues)
+- Email: `shashankgk04@gmail.com`  
+- GitHub Issues: [Open an Issue](https://github.com/ShashankK-23/strikeout_recognition_project/issues)
 
 ---
 
